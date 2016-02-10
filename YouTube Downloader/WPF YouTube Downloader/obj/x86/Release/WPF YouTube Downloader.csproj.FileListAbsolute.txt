@@ -1,0 +1,244 @@
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\MainWindow.baml
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\Playlist.baml
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\Start.baml
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\App.baml
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\MainWindow.g.cs
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\Playlist.g.cs
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\Start.g.cs
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\App.g.cs
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.cache
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.g.resources
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\WPF_YouTube_Downloader.Properties.Resources.resources
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csproj.GenerateResource.Cache
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.pdb
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
+C:\Users\me\AppData\Local\Temporary Projects\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.cache
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.g.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF_YouTube_Downloader.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe.config
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.xml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe.config
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.dll
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.xml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\Download.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\MainWindow.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\Playlist.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\SaveLocation.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\Start.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\App.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\Download.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\MainWindow.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\Playlist.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\SaveLocation.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\Start.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\App.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.cache
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.g.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\WPF_YouTube_Downloader.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csproj.GenerateResource.Cache
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - NEW\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\Download.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\MainWindow.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\Playlist.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\SaveLocation.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\Start.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\App.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\Download.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\MainWindow.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\Playlist.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\SaveLocation.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\Start.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\App.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.cache
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.g.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\WPF_YouTube_Downloader.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csproj.GenerateResource.Cache
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe.config
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.dll
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.xml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader - Copy 160313\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.lref
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.baml
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.g.cs
+C:\Users\me\Documents\C# Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe.config
+C:\Users\me\Documents\C# Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
+C:\Users\me\Documents\C# Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_Content.g.cs
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2010\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csproj.GenerateResource.Cache
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csprojResolveAssemblyReference.cache
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.baml
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.baml
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.baml
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.baml
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.baml
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.baml
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.baml
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.baml
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.g.cs
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.g.cs
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.g.cs
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.g.cs
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.g.cs
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.g.cs
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.g.cs
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.g.cs
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.g.cs
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_Content.g.cs
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.cache
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.lref
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.pdb
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.dll
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.pdb
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.xml
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.baml
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.g.resources
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF_YouTube_Downloader.Properties.Resources.resources
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csproj.GenerateResource.Cache
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe.manifest
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.application
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe.manifest
+E:\CrisPC\VC2010Projects\Projects\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.application
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe.manifest
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.application
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.dll
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.xml
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.baml
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.baml
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.baml
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.baml
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.baml
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.baml
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.baml
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.baml
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.g.cs
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.g.cs
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.g.cs
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.g.cs
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.g.cs
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.g.cs
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.g.cs
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.g.cs
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.g.cs
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_Content.g.cs
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.cache
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.lref
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.baml
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.g.resources
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF_YouTube_Downloader.Properties.Resources.resources
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csproj.GenerateResource.Cache
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe.manifest
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.application
+C:\Users\Cris\Downloads\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.pdb
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe.manifest
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.application
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.pdb
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.dll
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.pdb
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.xml
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csprojResolveAssemblyReference.cache
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.baml
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.baml
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.baml
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.baml
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.baml
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.baml
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.baml
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.baml
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.g.cs
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.g.cs
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.g.cs
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.g.cs
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.g.cs
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.g.cs
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.g.cs
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.g.cs
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.g.cs
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_Content.g.cs
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.cache
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.lref
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.baml
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.g.resources
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF_YouTube_Downloader.Properties.Resources.resources
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csproj.GenerateResource.Cache
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe.manifest
+E:\CrisPC\160129 backup\WPF YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.application
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe.manifest
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.application
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.pdb
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.dll
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.pdb
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.xml
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.baml
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.baml
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.baml
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.baml
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.baml
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.baml
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.baml
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.baml
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.g.cs
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.g.cs
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.g.cs
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.g.cs
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.g.cs
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.g.cs
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.g.cs
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.g.cs
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.g.cs
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_Content.g.cs
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.cache
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.lref
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.baml
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.g.resources
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF_YouTube_Downloader.Properties.Resources.resources
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csproj.GenerateResource.Cache
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe.manifest
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.application
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
+G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb

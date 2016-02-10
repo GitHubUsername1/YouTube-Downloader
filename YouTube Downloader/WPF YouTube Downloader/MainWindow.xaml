@@ -1,0 +1,5 @@
+﻿<NavigationWindow x:Class="WPF_YouTube_Downloader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tykey's YouTube Downloader" Height="350" Width="605" ResizeMode="CanMinimize" Icon="dog.ico">
+</NavigationWindow>

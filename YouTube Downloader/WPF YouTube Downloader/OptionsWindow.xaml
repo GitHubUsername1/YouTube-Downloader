@@ -1,0 +1,13 @@
+﻿<Window x:Class="WPF_YouTube_Downloader.OptionsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="dog.ico"
+        Title=" Select Options" Height="250" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <CheckBox Style="{StaticResource checkBoxStyle}" Content=" Add Number to Downloaded Title to Indicate Download Order" IsChecked="{Binding AddFileNumToTitle}"  Height="16" HorizontalAlignment="Left" Margin="12,12,0,0" Name="chkAddNumToTitle" VerticalAlignment="Top" />
+        <CheckBox Style="{StaticResource checkBoxStyle}" Content=" Shutdown PC When Download(s) Ends" IsChecked="{Binding ShutdownPC}" Height="16" HorizontalAlignment="Left" Margin="12,114,0,0" Name="chkShutdown" VerticalAlignment="Top" />
+        <Button Content="OK" Height="23" HorizontalAlignment="Left" Margin="211,166,0,0" Name="btnOK" Click="btnOK_Click" VerticalAlignment="Top" Width="75" />
+        <CheckBox Style="{StaticResource checkBoxStyle}" Content=" Download Audio Only" Height="16" HorizontalAlignment="Left" Margin="12,62,0,0" Name="chkAudioOnly" IsChecked="{Binding Audio}" VerticalAlignment="Top"  />
+        <Label Content="(Applies to Playlist Downloads Only)" Height="28" HorizontalAlignment="Left" Margin="237,23,0,0" Name="label1" VerticalAlignment="Top" />
+    </Grid>
+</Window>

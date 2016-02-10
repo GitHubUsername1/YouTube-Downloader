@@ -1,0 +1,20 @@
+﻿<Page x:Class="WPF_YouTube_Downloader.ExtractAudio"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="605"
+	Title="ExtractAudio">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="dog.ico"  />
+        </Grid.Background>
+        <Label Content="Extract Audio" Height="28" HorizontalAlignment="Left" Margin="26,36,0,0" Name="lblExtract" Style="{StaticResource headerTextStyle}" VerticalAlignment="Top" />
+        <ListBox DragDrop.Drop="listBox1_DragDrop" DragEnter="listBox1_DragEnter" AllowDrop="True" Height="77" HorizontalAlignment="Left" Margin="26,99,0,0" Name="listBox1" VerticalAlignment="Top" Width="549" />
+        <Button Content="Cancel" Height="23" HorizontalAlignment="Left" Margin="26,211,0,0" Name="btnCancel" VerticalAlignment="Top" Width="75" Click="btnCancel_Click" />
+        <Button Content="Extract" Height="23" HorizontalAlignment="Left" Margin="500,211,0,0" Name="btnExtract" VerticalAlignment="Top" Width="75" Click="btnExtract_Click" />
+        
+    </Grid>
+</Page>

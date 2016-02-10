@@ -1,0 +1,40 @@
+﻿<Page x:Class="WPF_YouTube_Downloader.Start"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:testing="clr-namespace:WPF_YouTube_Downloader"
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="605"
+	Title="YouTube Downloader - Home" >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="465*" />
+            <ColumnDefinition Width="140*" />
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="dog.ico"  />
+        </Grid.Background>
+        <Menu Background="{x:Null}" Height="23" HorizontalAlignment="Stretch" Name="menu1" VerticalAlignment="Top" Grid.ColumnSpan="2" >
+            <MenuItem Background="{x:Null}" Header="_File">
+                <MenuItem Name="mnuOptions" Header="_Options" Click="mnuOptions_Click">
+                </MenuItem>
+                <MenuItem Name="mnuExtractAudio" Header="_Extract Audio (.mp3) From a File" Click="mnuExtractAudio_Click">
+                </MenuItem>
+                <Separator/>
+                <MenuItem Name="mnuExit" Header="_Exit" Click="mnuExit_Click">
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Name="mnuAbout" Header="_About" Click="mnuAbout_Click">
+            </MenuItem>
+        </Menu>
+        <Button Content="Next" Height="23" HorizontalAlignment="Right" Margin="0,170,12,0" Name="btnNext" VerticalAlignment="Top" Width="75" Style="{StaticResource buttonStyle}" Click="btnNext_Click" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,112,0,0" Name="txtLink" VerticalAlignment="Top" Width="571" Grid.ColumnSpan="2" AcceptsTab="True">
+            <TextBox.ToolTip>
+                <TextBox Background="{x:Null}" Text="Enter link i.e. https://www.youtube.com/watch?v=a150&amp;index=1 OR https://www.youtube.com/playlist?list=PL91A9759EE1E6A108"/>
+            </TextBox.ToolTip>
+        </TextBox>
+        <Label Content="Enter Link" Height="28" HorizontalAlignment="Left" Margin="12,44,0,0" Name="label1" VerticalAlignment="Top" Style="{StaticResource headerTextStyle}"/>
+    </Grid>
+</Page>
