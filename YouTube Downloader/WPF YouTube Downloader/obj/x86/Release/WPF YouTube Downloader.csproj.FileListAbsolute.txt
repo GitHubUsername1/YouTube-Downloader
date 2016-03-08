@@ -242,3 +242,38 @@ G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTub
 G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.application
 G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
 G:\Projects\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.pdb
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.baml
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.baml
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.baml
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.baml
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.baml
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.baml
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.baml
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.baml
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\AboutWindow.g.cs
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Download.g.cs
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\ExtractAudio.g.cs
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\MainWindow.g.cs
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\OptionsWindow.g.cs
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Playlist.g.cs
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\SaveLocation.g.cs
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.g.cs
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\App.g.cs
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_Content.g.cs
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.cache
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader_MarkupCompile.lref
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\Start.baml
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.g.resources
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF_YouTube_Downloader.Properties.Resources.resources
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.csproj.GenerateResource.Cache
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe.manifest
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.application
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.exe
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\bin\Release\WPF YouTube Downloader.pdb
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.dll
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.pdb
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\bin\Release\HtmlAgilityPack.xml
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.exe.manifest
+C:\Users\cris\Documents\GitHub\YouTube-Downloader\YouTube Downloader\WPF YouTube Downloader\obj\x86\Release\WPF YouTube Downloader.application

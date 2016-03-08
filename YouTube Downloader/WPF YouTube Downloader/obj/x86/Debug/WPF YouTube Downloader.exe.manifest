@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPF YouTube Downloader.exe" size="596880">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPF YouTube Downloader.exe" size="595968">
       <assemblyIdentity name="WPF YouTube Downloader" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>qxcigGK3xoSQp2BL2YcL+fHDUA4=</dsig:DigestValue>
+        <dsig:DigestValue>QJn48nrfImIFPlpMPw2LqEoc0AA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

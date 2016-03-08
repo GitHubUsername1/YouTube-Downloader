@@ -47,7 +47,7 @@ namespace WPF_YouTube_Downloader
                 else
                     dupes.Add(haLink.Value);
 
-                if (haLink != null && (i + 1) < titles.Count())
+                if (haLink != null && i < titles.Count())
                 {
                     if (del(haLink))
                     {
